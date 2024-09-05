@@ -20,7 +20,6 @@ class PollResource extends Component
             'poll_token' => $poll->token,
         ]);
 
-
         $this->status = 'index';
     }
     public function render()
