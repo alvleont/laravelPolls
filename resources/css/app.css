@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply m-5;
+}
+
+.button{
+    @apply mt-2;
+}
